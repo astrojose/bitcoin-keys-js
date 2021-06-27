@@ -1,0 +1,15 @@
+{
+  "name": "bitcoin-keys",
+  "version": "1.0.0",
+  "description": "simple bitcoin key generation",
+  "main": "index.js",
+  "repository": "git@github.com:astrojose/bitcoin-keys-js.git",
+  "author": "astrojose <jossey1918@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bs58": "^4.0.1",
+    "elliptic": "^6.5.4",
+    "ripemd160": "^2.0.2",
+    "sha256": "^0.2.0"
+  }
+}
